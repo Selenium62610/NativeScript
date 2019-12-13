@@ -350,7 +350,7 @@ login() {
 const  topmost  =  require("tns-core-modules/ui/frame").topmost;
 ```
 Vous avez maintenant accès à la page _home_ que nous avions créé plus tôt, nous pouvons maintenant la modifier pour qu'elle répond à nos attentes
-## Save a file
+## Modifier la page Home
 
 La barre que nous voyons en haut est une ActionBar est comme en Android, nous permet d'accéder rapidement à certains composant.
 
