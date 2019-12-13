@@ -144,6 +144,38 @@ et le code css correspondant:
 	flex-grow: 2;
 	margin-bottom: 20;
 }
+
+.connexion-top{
+    width: 100%;
+    border-color: blueviolet;
+    border-bottom-width : 1.5;
+    height: 185;
+    background-color: #8e7cc3;
+}
+
+.page {
+    align-items: center;
+    flex-direction: column;
+}
+
+.underTitle
+{
+  width: 100%;
+  padding: 100;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 18;
+  color: white;
+}
+
+.title
+{
+  width: 100%;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 25;
+  color: white;
+}
 ```
 
 Nous avons maintenant un champs pour entrer notre login assez correct, mais maintenant il faudrait pouvoir récupérer les informations envoyé.
