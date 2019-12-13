@@ -59,7 +59,9 @@ Vous devriez avoir quelque chose qui ressemble à ça:
 Vous devez disposer de différents fichiers dans le répertoire _App_ ses derniers permettent de gérer la page qui sera affichés lorsque l'application sera affichés. On peut lire sur _app-root.xml_ que ce dernier initialise sa page par défaut comme étant _home-page_ dans le dossier **home**.
 
 Si nous jetons un oeil à _home-page.xml_on remarque que ce fichier contient bien la barre d'action et le texte présent sur notre téléphone.
+
 ![enter image description here](https://lh3.googleusercontent.com/3042ldp1PHdZrWNuobPBfmLskDjB3vx1AQvvrEu0NlwziFErHtsLHV2iJTHV5qc_Fhl-gc76jCk)
+
 ## Créer le dossier login
 
 Ce sera le dossier dans lequel nous allons implémenter nos fichiers afin de créer une page de login/inscription, pour cela nous devons créer un dossier au même niveau que **home**. Ce répertoire contiendra un fichier xml, css et js prénommée "login-page." et enfin un modèle view du nom de "login-view-model.js".
