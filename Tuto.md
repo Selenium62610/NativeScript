@@ -215,7 +215,6 @@ Il nous faut maintenant récupérer l'email et pouvoir le modifier à partir de 
 .btn-primary {
 	margin-left: 30;
 	margin-right: 30;
-	flex-grow: 2;
 	margin: 30  5  15  5;
 	background-color: #8e7cc3;
 }
